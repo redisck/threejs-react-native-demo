@@ -1,3 +1,7 @@
+# Warning! This repo is out of date.
+
+Expo has released a new ThreeJS example: https://github.com/expo/expo-three. Go here if you want to learn how to use ThreeJS in your Expo application.
+
 # Getting started with ThreeJS, React Native, and Expo.io on OSX
 
 ![preview](https://cloud.githubusercontent.com/assets/310223/24178400/1a3d1298-0e66-11e7-90b3-c2b96060f67c.gif)
